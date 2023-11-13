@@ -26,7 +26,11 @@
 
 # [ 👨‍💻 Fix Mate ]<a name="about-project"></a>
 
-**Fix Mate** is committed to making everyday life more convenient by connecting users with trusted service providers. It is a one-stop platform for finding, booking, and  reviewing services, all from the comfort of your home. Users can communicate with service providers through the app, discussing specific requirements, asking questions, and confirming details.
+**Fix Mate** is committed to making everyday life more convenient by connecting users with trusted service providers. It is a one-stop platform for finding, booking and  reviewing services, all from the comfort of your home. Users can communicate with service providers through the app, discussing specific requirements, asking questions, and confirming details.
+
+## Responsive View
+
+![fixmate](https://github.com/anita00001/fix-mate-frontend/assets/117971223/0a81e043-0be9-4396-a351-e3ee5301699a)
 
 ## Live Link
 > - [Live Link](https://fixmate.netlify.app/)
@@ -35,9 +39,9 @@
 > - [Base Url](https://fixmate.onrender.com/)
 
 > - API Endpoints
-- api/v1/experts
-- api/v1/reservations
-- api/v1/specializations
+- API/v1/experts
+- API/v1/reservations
+- API/v1/specializations
 > - [API Documentation](https://fixmate.onrender.com/api-docs/index.html)
 
 > - [Link to Back-end Repository](https://github.com/AnsarIbrahim/Fix-Mate-Backend)
@@ -89,11 +93,11 @@ Before you begin, make sure you have the following installed on your machine:
 
 ### Setup
 
-> - To setup this project locally:
+> - To set up this project locally:
 
-1. Open terminal in VScode.
-2. Navigate to the directory where you want clone the copy of this repository.
-3. Create new directory [optional].
+1. Open the terminal in VScode.
+2. Navigate to the directory where you want to clone the copy of this repository.
+3. Create a new directory [optional].
 4. Clone the repository by running the following command:
 
 ```sh
@@ -135,7 +139,7 @@ npm start
 
 ### Run tests
 
-> - To run Stylelint checker, run the following command:
+> - To run the Stylelint checker, run the following command:
 ```sh
   npm install
 ```
@@ -143,7 +147,7 @@ npm start
   npx stylelint "**/*.{css,scss}"
 ```
 
-> - To run ESlint checker, run the following command:
+> - To run the ESlint checker, run the following command:
 ```sh
   npx eslint "**/*.{js,jsx}"
 ```
@@ -156,24 +160,24 @@ npm start
 
 The collaborators of this project.
 
-👨‍🚀 **Anita Sharma**
-> - GitHub: [@anita00001](https://github.com/anita00001)
-> - LinkedIn: [anitaa-sharmaa](https://www.linkedin.com/in/anitaa-sharmaa/)
-> - Twitter: [@anitaa_sharmaa](https://twitter.com/anitaa_sharmaa)
-
 👤 **Ansar Ibrahim**
 - [GitHub](https://github.com/AnsarIbrahim)
 - [LinkedIn](https://linkedin.com/in/ansar-ibrahim/)
 - [Twitter](https://twitter.com/ansaradheeb)
 
+👤 **Anita Sharma**
+- [GitHub](https://github.com/anita00001)
+- [LinkedIn](https://www.linkedin.com/in/anitaa-sharmaa/)
+- [Twitter](https://twitter.com/anitaa_sharmaa)
+
 👤 **MoFuhidy**
-- GitHub: [@Mofuhidy](https://github.com/Mofuhidy)
-- LinkedIn: [@Mofuhidy](https://www.linkedin.com/in/mo-fuhidy/)
+- [GitHub](https://github.com/Mofuhidy)
+- [LinkedIn](https://www.linkedin.com/in/mo-fuhidy/)
 
 👤 **Theodore Asimeng-Osei**
-- GitHub: [@githubhandle](https://github.com/Theodoraldo)
-- Twitter: [@twitterhandle](https://twitter.com/AsimengOse33947)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/theodoreasimeng/)
+- [GitHub](https://github.com/Theodoraldo)
+- [Twitter](https://twitter.com/AsimengOse33947)
+- [LinkedIn](https://www.linkedin.com/in/theodoreasimeng/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
